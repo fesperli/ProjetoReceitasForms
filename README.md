@@ -17,7 +17,11 @@ O sistema permite gerenciar receitas, categorias, ingredientes, usuários e aval
 ## Membros
 
 Felipe Sperli Neto - 04724-054
+
 Pedro Henrique Bassi Parma - 04724-071
+
 João Paulo Silva - 04724079
+
 Christian Hugo Ferreira - 04724-098
+
 Rafael Fresarin Suzano - 04724-079
